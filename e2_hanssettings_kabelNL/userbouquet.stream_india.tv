@@ -5,7 +5,7 @@
 #DESCRIPTION 24 News Malayalam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8:3 Tamil TV
 #DESCRIPTION 3 Tamil TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//184.173.179.163%3a1935/Jaffnatv/Jaffnatv/playlist.m3u8:4K Tamil TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8:4K Tamil TV
 #DESCRIPTION 4K Tamil TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//158.69.124.9%3a1935/5aabtv/5aabgurbani/playlist.m3u8:5aab Gurbani
 #DESCRIPTION 5aab Gurbani
@@ -491,6 +491,8 @@
 #DESCRIPTION Steelbird Music (muziek - India)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8:STS Tamil
 #DESCRIPTION STS Tamil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8:Sooriyan Tamil TV
+#DESCRIPTION SOORIYAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn20.liveonlineservices.com/hls/subrang.m3u8:Subrang TV (India)
 #DESCRIPTION Subrang TV (India)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.120.188.176/hdmi:Sun Life
